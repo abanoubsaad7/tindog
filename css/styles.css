@@ -148,3 +148,11 @@ p.footer
 {
     color: #8f8f8f;
 }
+@media (max-width: 400px) {
+    .dog
+    {
+        transform: rotate(0deg);
+        padding: 0% 5% 3% 0%;
+        width: 65%;
+    }
+}
